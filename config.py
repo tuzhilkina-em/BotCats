@@ -1,4 +1,3 @@
-TOKEN='7606336631:AAH2Q9YbPE-zFd2KM-vkDCMyIhO3sf9IXe8'
 recipe = (
     "Ингредиенты:\n"
     "- 1 стакан кефира (или молока)\n"
